@@ -1,2 +1,2 @@
-CPP_curve
+C++
 This repo contain solutions to all practical questions.
